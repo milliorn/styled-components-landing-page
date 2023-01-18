@@ -1,7 +1,11 @@
 # styled-components-landing-page
 
-Repo for me to learn style components
+<https://github.com/milliorn/styled-components-landing-page>
 
-## Adding TypeScript
+## Getting Started with Create React App
 
-<https://create-react-app.dev/docs/adding-typescript/>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## styled-components
+
+<https://www.npmjs.com/package/styled-components>
