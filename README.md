@@ -9,3 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## styled-components
 
 <https://www.npmjs.com/package/styled-components>
+
+## react-icons
+
+<https://www.npmjs.com/package/react-icons>
